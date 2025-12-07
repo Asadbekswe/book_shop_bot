@@ -1,4 +1,4 @@
-# Online Book Shop BOT 
+# Book Shop BOT 
 
 
 ![aiogram](https://img.shields.io/badge/python-v3.12-blue.svg?logo=python&logoColor=yellow) ![aiogram](https://img.shields.io/badge/aiogram-v3-blue.svg?logo=telegram) ![Redis](https://img.shields.io/badge/redis-dictionary--storage-red.svg?logo=redis)
@@ -75,11 +75,11 @@ To get started with this bot, follow these steps:
 
 - Run the bot using(bash or shell)
     ```bash
-    python3 main.py
+    python3 main_polling.py
    ```
     ```bash
-    chmod +x main.py
-   ./main.py
+    chmod +x main_polling.py
+   ./main_polling.py
    ```
 
 <div style="text-align: center;">
