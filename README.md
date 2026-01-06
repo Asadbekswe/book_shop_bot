@@ -83,9 +83,9 @@ To get started with this bot, follow these steps:
    ```
 
 <div style="text-align: center;">
-    <a href="https://buymeacoffee.com/mexmonjonovuz" target="_blank">
+    <a href="https://buymeacoffee.com/Asadbekswe" target="_blank">
         <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" 
-             alt="Buy Me A Coffee" 
+             alt="Buy Me A Book" 
              style="height: 41px !important; 
                     width: 174px !important; 
                     box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; 
